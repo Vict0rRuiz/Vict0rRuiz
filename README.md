@@ -1,7 +1,7 @@
 <h1 align="center">📂ᴠɪᴄᴛᴏʀ ʀᴜɪᴢ📂<h1>
 <h3 align="center">A passionate back-end developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Balta.io C# career**
+- 🌱 I’m currently studying in FIAP
 
 - 📫 How to reach me **ruizvictor077@outlook.com**
 
