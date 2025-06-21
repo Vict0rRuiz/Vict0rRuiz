@@ -1,4 +1,4 @@
-<h2 align="left">👨‍💻 Victor Ruiz | Software Developer • Tech Enthusiast & Problem Solver</h2>
+<h2 align="left">👨‍💻 Victor Ruiz | Software Developer</h2>
 
 ###
 
